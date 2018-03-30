@@ -4,10 +4,13 @@
 # But not these files...
 !.gitignore
 !mods/*
+!/resources/mainmenu/*
+!/config/advRocketry/*
+!/config/lostcities/*
 
 # ...even if they are in subdirectories
 !*/
 
 # if the files to be tracked are in subdirectories
 # !*/a/b/file1.txt
-# !*/mods/*
+# !*/config/*
